@@ -1,0 +1,67 @@
+body{
+    background-image: url(../picture/3182b0f1b945e69e7747bcc63839e7e0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   
+  
+}
+.content{
+    width: 25%; /* adjust width as needed */
+  height: 60%; /* adjust height as needed */
+  text-align: center; /* optional */
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  justify-content: center;
+  background-color: #EEEEEE;
+}
+
+.subcontent{
+    width: 50%;
+    height: 60%;
+    background-image: url(../picture/HD-Meme-Wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    margin: 0.3rem;
+    padding: 0.3rem;
+    
+}
+
+#usepass{
+    display: block;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#username{
+    padding: 0.4rem;
+    border-radius: 10px;
+}
+#password{
+    padding: 0.4rem;
+    border-radius: 10px;
+}
+
+
+button{
+    width: 12rem;
+    padding: 0.4rem;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}

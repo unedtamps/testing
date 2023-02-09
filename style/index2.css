@@ -1,0 +1,107 @@
+body {
+    background-color: rgba(0, 0, 0, 0.84);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+    font-size: 60px;
+    color: white;
+}
+
+form {
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+
+}
+
+#keyword {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    width: 10%;
+}
+
+nav {
+    margin-left: 0;
+    margin-top: 0;
+    width: 100%;
+    padding: 20px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    border: 1px solid rebeccapurple;
+    width: 40px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: grey;
+    text-decoration: none;
+    margin-bottom: 20px;
+
+}
+
+img {
+    width: 35%;
+    padding-top: 20px;
+
+
+}
+
+.mainnav {
+    display: inline;
+}
+
+.maincontent {
+    display: block;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+    border: 2px solid rgb(30, 137, 141);
+    border-radius: 20px;
+    box-shadow: 5px 10px #888;
+    display: block;
+    color: white ;
+}
+
+p {
+    text-align: left;
+    padding: 20px;
+}
+
+.main {
+    border: 1px solid rgb(35, 148, 82);
+    padding: 50px;
+    margin: 30px;
+    border-radius: 40px;
+
+
+}
+
+#detail {
+    border: 2px solid rgb(58, 18, 170);
+    border-radius: 20px;
+    box-shadow: 15px 0px 45px 5px rgba(62, 136, 186, 0.68);
+    -webkit-box-shadow: 15px 0px 45px 5px rgba(62, 136, 186, 0.68);
+    -moz-box-shadow: 15px 0px 45px 5px rgba(62, 136, 186, 0.68);
+
+}

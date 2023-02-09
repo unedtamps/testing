@@ -1,0 +1,18 @@
+body{
+    background-image: url(../picture/HD-Meme-Wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container {
+    text-align: center;
+    margin: 50vh auto;
+    border: 2px solid rgb(76, 163, 163);
+    border-radius: 60px;
+    width: 60%;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
